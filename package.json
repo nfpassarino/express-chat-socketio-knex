@@ -1,5 +1,5 @@
 {
-  "name": "express-challenge",
+  "name": "express-chat-socketio-knex",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
@@ -23,6 +23,8 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.3.4",
     "handlebars": "^4.7.7",
+    "knex": "^0.95.12",
+    "mariadb": "^2.5.5",
     "moment": "^2.29.1",
     "nodemon": "^2.0.13",
     "socket.io": "^4.2.0"
